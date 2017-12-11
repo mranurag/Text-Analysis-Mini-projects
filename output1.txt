@@ -1,0 +1,194 @@
+(ROOT
+  (S
+    (VP (VB Thank)
+      (S
+        (NP (PRP you))
+        (ADJP (JJ Gujarat))))
+    (. !)))
+
+root(ROOT-0, Thank-1)
+nsubj(Gujarat-3, you-2)
+xcomp(Thank-1, Gujarat-3)
+
+(ROOT
+  (S
+    (VP (VB Gratitude)
+      (PP (TO to)
+        (NP
+          (NP (PRP$ my) (NNS sisters)
+            (CC and)
+            (NNS brothers))
+          (PP (IN of)
+            (NP (NNP Gujarat)))))
+      (PP (IN for)
+        (S
+          (VP (VBG voting)
+            (PP (IN in)
+              (NP (NN record) (NNS numbers)))
+            (NP (NN today))))))
+    (. .)))
+
+root(ROOT-0, Gratitude-1)
+case(sisters-4, to-2)
+nmod:poss(sisters-4, my-3)
+nmod:to(Gratitude-1, sisters-4)
+cc(sisters-4, and-5)
+nmod:to(Gratitude-1, brothers-6)
+conj:and(sisters-4, brothers-6)
+case(Gujarat-8, of-7)
+nmod:of(sisters-4, Gujarat-8)
+mark(voting-10, for-9)
+advcl(Gratitude-1, voting-10)
+case(numbers-13, in-11)
+compound(numbers-13, record-12)
+nmod:in(voting-10, numbers-13)
+nmod:tmod(voting-10, today-14)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (VP (VBG seeing)
+        (SBAR (IN that)
+          (S
+            (NP (NNP BJP))
+            (VP (VBZ is)
+              (VP (VBN headed)
+                (PP (IN towards)
+                  (NP
+                    (NP (DT a) (JJ historic) (NN victory))
+                    (, ,)
+                    (VP (VBN powered)
+                      (PP (IN by)
+                        (NP
+                          (NP (DT the) (NN affection)
+                            (CC and)
+                            (NN support))
+                          (PP (IN of)
+                            (NP (DT every) (NNP Gujarati))))))))))))))
+    (. .)))
+
+nsubj(seeing-3, I-1)
+aux(seeing-3, am-2)
+root(ROOT-0, seeing-3)
+mark(headed-7, that-4)
+nsubjpass(headed-7, BJP-5)
+auxpass(headed-7, is-6)
+ccomp(seeing-3, headed-7)
+case(victory-11, towards-8)
+det(victory-11, a-9)
+amod(victory-11, historic-10)
+nmod:towards(headed-7, victory-11)
+acl(victory-11, powered-13)
+case(affection-16, by-14)
+det(affection-16, the-15)
+nmod:by(powered-13, affection-16)
+cc(affection-16, and-17)
+nmod:by(powered-13, support-18)
+conj:and(affection-16, support-18)
+case(Gujarati-21, of-19)
+det(Gujarati-21, every-20)
+nmod:of(affection-16, Gujarati-21)
+
+(ROOT
+  (S
+    (VP (VB Thank)
+      (S
+        (NP (PRP you))
+        (ADJP (JJ Gujarat))))
+    (. !)))
+
+root(ROOT-0, Thank-1)
+nsubj(Gujarat-3, you-2)
+xcomp(Thank-1, Gujarat-3)
+
+(ROOT
+  (S
+    (VP (VB Gratitude)
+      (PP (TO to)
+        (NP
+          (NP (PRP$ my) (NNS sisters)
+            (CC and)
+            (NNS brothers))
+          (PP (IN of)
+            (NP (NNP Gujarat)))))
+      (PP (IN for)
+        (S
+          (VP (VBG voting)
+            (PP (IN in)
+              (NP (NN record) (NNS numbers)))
+            (NP (NN today))))))
+    (. .)))
+
+root(ROOT-0, Gratitude-1)
+case(sisters-4, to-2)
+nmod:poss(sisters-4, my-3)
+nmod:to(Gratitude-1, sisters-4)
+cc(sisters-4, and-5)
+nmod:to(Gratitude-1, brothers-6)
+conj:and(sisters-4, brothers-6)
+case(Gujarat-8, of-7)
+nmod:of(sisters-4, Gujarat-8)
+mark(voting-10, for-9)
+advcl(Gratitude-1, voting-10)
+case(numbers-13, in-11)
+compound(numbers-13, record-12)
+nmod:in(voting-10, numbers-13)
+nmod:tmod(voting-10, today-14)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (VP (VBG seeing)
+        (SBAR (IN that)
+          (S
+            (NP (NNP BJP))
+            (VP (VBZ is)
+              (VP (VBN headed)
+                (PP (IN towards)
+                  (NP
+                    (NP (DT a) (JJ historic) (NN victory))
+                    (, ,)
+                    (VP (VBN powered)
+                      (PP (IN by)
+                        (NP
+                          (NP (DT the) (NN affection)
+                            (CC and)
+                            (NN support))
+                          (PP (IN of)
+                            (NP (DT every) (NNP Gujarati))))))))))))))
+    (. .)))
+
+nsubj(seeing-3, I-1)
+aux(seeing-3, am-2)
+root(ROOT-0, seeing-3)
+mark(headed-7, that-4)
+nsubjpass(headed-7, BJP-5)
+auxpass(headed-7, is-6)
+ccomp(seeing-3, headed-7)
+case(victory-11, towards-8)
+det(victory-11, a-9)
+amod(victory-11, historic-10)
+nmod:towards(headed-7, victory-11)
+acl(victory-11, powered-13)
+case(affection-16, by-14)
+det(affection-16, the-15)
+nmod:by(powered-13, affection-16)
+cc(affection-16, and-17)
+nmod:by(powered-13, support-18)
+conj:and(affection-16, support-18)
+case(Gujarati-21, of-19)
+det(Gujarati-21, every-20)
+nmod:of(affection-16, Gujarati-21)
+
+(ROOT
+  (S
+    (NP (NNP Gujarati))
+    (VP (VBZ is)
+      (ADJP (JJS best)))))
+
+nsubj(best-3, Gujarati-1)
+cop(best-3, is-2)
+root(ROOT-0, best-3)
+
