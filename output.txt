@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Bill))
+    (VP (VBZ works)
+      (PP (IN in)
+        (NP
+          (NP (NNP KIIT))
+          (PP (IN in)
+            (NP (NNP Hyderabad))))))
+    (. .)))
+
+nsubj(works-2, Bill-1)
+root(ROOT-0, works-2)
+case(KIIT-4, in-3)
+nmod:in(works-2, KIIT-4)
+case(Hyderabad-6, in-5)
+nmod:in(KIIT-4, Hyderabad-6)
+
